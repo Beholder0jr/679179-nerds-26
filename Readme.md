@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Неопознанный енот](https://up.htmlacademy.ru/htmlcss/26/user/679179).
-* Наставник: [Роман Ясель].
+* Наставник: [Роман Ясель](https://htmlacademy.ru/profile/yasel).
 
 ---
 
